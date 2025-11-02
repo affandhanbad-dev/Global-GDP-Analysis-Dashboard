@@ -22,3 +22,16 @@ It uses advanced data preprocessing, aggregation, and visualization techniques t
 
 ## 🖼️ Preview
 
+![Dashboard Preview](web_Dashboard/GDP_dashboard.png)
+
+
+
+
+![Dashboard Tables Preview](web_Dashboard/GDP_dashboard1.png)
+
+
+
+
+![Dashboard Graph & Charts Preview](web_Dashboard/GDP_dashboard2.png)
+
+
